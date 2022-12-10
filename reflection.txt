@@ -1,0 +1,31 @@
+Please respond thoroughly (at least two sentences for each question) to
+the following three questions.
+
+1. Describe an experience you had this semester where you saw the power of
+functions.
+
+The best experience I had with functions this semseter was while writing my significant project. I had made a lot of different functions to collect different data from the user.
+I had collected the price and the quantities of different elements but didn't calculate the total of everything and all the data was stored within different functions. The best 
+use of functions was a simple one that calculated the total and had two arguments of quantity and total. I was able to repeat that function 5 times and it was able to collect the total 
+of every section and then the total for the entire project. That is the biggest thing with functions is it actually was repeatable and saved me a lot of effort.
+
+
+2. In your judgment, what is the value of test functions?
+
+The value of test functions helps ensure the code remains working and pure. Initially while writing it it seems kinda redundant because you as the coder runs it and ensures it outputs the correct
+information. You repeat the process until the program works correctly. Test functions however are there so that other people can see the different requirements of a function to make sure that what they add
+or modify won't change the overall functionality of the program. So for the writer I feel its not horribly important except the second reassurance that it works correctly, test functions are however important for 
+the other users of the program.
+
+
+3. Describe your process for troubleshooting and fixing a program that
+has a problem. What is one thing you can do to improve your process?
+
+My current process of troubleshooting a program is using the built in debugging method. I start with the basic smaller functions that are being used placing blocks at different lines with variables
+as well as any data that is critical to the program running. As I go step by step through the function I'm able to make sure the variables are what they are supposed to be by hovering over them. If the function
+works properly but just outputs the incorrect value I know its a logical error I reevaluate. If the computer throws an error I look at the lines and see where the error occurs and fix it. After I ensure each and every
+function works I combine it and ensure it still works. Visual studio code does a really good job at helping us find bugs without test functions.
+
+I think I can improve the process is by using test functions. If I start with the test function I always have that constant reassurance that it is working. Another way to improve is often times I
+get discouraged and overwhelmed but as I relax and take it one function at a time it works out.
+
